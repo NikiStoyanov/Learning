@@ -1,3 +1,0 @@
-is_global = true
-build_property.RootNamespace = GloboTicket.Services.Payment
-build_property.ProjectDir = C:\Users\nikis\Desktop\Learning\microservices-communication-asp-dot-net-core\03\demos\grpc\GloboTicket\GloboTicket.Services.Payment\
