@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\bin\Debug\net5.0\10.Moving.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\bin\Debug\net5.0\10.Moving.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\bin\Debug\net5.0\10.Moving.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\bin\Debug\net5.0\10.Moving.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\bin\Debug\net5.0\10.Moving.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\bin\Debug\net5.0\ref\10.Moving.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\bin\Debug\net5.0\10.Moving.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\10.Moving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\10.Moving.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\10.Moving.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\10.Moving.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\10.Moving.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\ref\10.Moving.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\10.Moving.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\10.Moving\obj\Debug\net5.0\10.Moving.genruntimeconfig.cache

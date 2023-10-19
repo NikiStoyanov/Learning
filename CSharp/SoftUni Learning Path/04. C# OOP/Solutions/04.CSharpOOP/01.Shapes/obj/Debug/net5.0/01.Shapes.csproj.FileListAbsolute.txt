@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\bin\Debug\net5.0\01.Shapes.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\bin\Debug\net5.0\01.Shapes.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\bin\Debug\net5.0\01.Shapes.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\bin\Debug\net5.0\01.Shapes.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\bin\Debug\net5.0\01.Shapes.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\bin\Debug\net5.0\ref\01.Shapes.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\bin\Debug\net5.0\01.Shapes.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\01.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\01.Shapes.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\01.Shapes.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\01.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\01.Shapes.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\ref\01.Shapes.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\01.Shapes.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.Shapes\obj\Debug\net5.0\01.Shapes.genruntimeconfig.cache

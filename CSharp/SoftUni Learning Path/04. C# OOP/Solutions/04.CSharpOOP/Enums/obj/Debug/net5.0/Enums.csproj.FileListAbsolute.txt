@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\bin\Debug\net5.0\Enums.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\bin\Debug\net5.0\Enums.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\bin\Debug\net5.0\Enums.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\bin\Debug\net5.0\Enums.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\bin\Debug\net5.0\Enums.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\bin\Debug\net5.0\ref\Enums.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\bin\Debug\net5.0\Enums.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\ref\Enums.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Enums\obj\Debug\net5.0\Enums.genruntimeconfig.cache

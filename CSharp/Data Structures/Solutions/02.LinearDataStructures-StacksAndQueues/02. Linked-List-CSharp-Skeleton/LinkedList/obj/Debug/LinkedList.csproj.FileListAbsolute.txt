@@ -1,0 +1,14 @@
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Learning\CSharp\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.exe
+D:\Learning\CSharp\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\bin\Debug\LinkedList.pdb
+D:\Learning\CSharp\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+D:\Learning\CSharp\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.exe
+D:\Learning\CSharp\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\02.LinearDataStructures-StacksAndQueues\02. Linked-List-CSharp-Skeleton\LinkedList\obj\Debug\LinkedList.pdb

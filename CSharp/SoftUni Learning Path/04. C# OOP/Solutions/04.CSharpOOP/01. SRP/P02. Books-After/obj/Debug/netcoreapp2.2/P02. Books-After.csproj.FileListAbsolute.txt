@@ -1,0 +1,12 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\bin\Debug\netcoreapp2.2\P02. Books-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01. SRP\P02. Books-After\obj\Debug\netcoreapp2.2\P02. Books-After.genruntimeconfig.cache

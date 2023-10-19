@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o93F3chtczC9/7qRB6IKLXpCglwxB5Alr+e1nDuh61gyLruCq+EkSfX8LrbjA2x3EAmjYI5mrsRQ7RQ9V62Phw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikis\\Desktop\\Learning\\Learning\\CSharp\\SoftUni Learning Path\\08. ASP.NET Core MVC Web Framework\\Demos\\AudiCars\\Services\\AudiCars.Services.Mapping\\AudiCars.Services.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikis\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

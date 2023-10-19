@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>aspnet-AudiCars-BBB373B5-EF3F-4DBB-B8AA-7152CEC275BF</UserSecretsId>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <CodeAnalysisRuleSet>..\..\Rules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <AdditionalFiles Include="..\..\stylecop.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.6" />
+    <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
+    <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.113" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.6" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.312" PrivateAssets="all">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\AudiCars.Common\AudiCars.Common.csproj" />
+    <ProjectReference Include="..\..\Data\AudiCars.Data.Models\AudiCars.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Data\AudiCars.Data\AudiCars.Data.csproj" />
+    <ProjectReference Include="..\..\Services\AudiCars.Services.Data\AudiCars.Services.Data.csproj" />
+    <ProjectReference Include="..\..\Services\AudiCars.Services.Mapping\AudiCars.Services.Mapping.csproj" />
+    <ProjectReference Include="..\..\Services\AudiCars.Services.Messaging\AudiCars.Services.Messaging.csproj" />
+    <ProjectReference Include="..\..\Services\AudiCars.Services\AudiCars.Services.csproj" />
+    <ProjectReference Include="..\AudiCars.Web.Infrastructure\AudiCars.Web.Infrastructure.csproj" />
+    <ProjectReference Include="..\AudiCars.Web.ViewModels\AudiCars.Web.ViewModels.csproj" />
+  </ItemGroup>
+</Project>

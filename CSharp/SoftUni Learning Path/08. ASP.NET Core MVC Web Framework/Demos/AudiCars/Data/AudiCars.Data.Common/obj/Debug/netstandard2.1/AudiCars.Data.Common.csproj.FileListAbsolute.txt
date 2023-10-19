@@ -1,0 +1,9 @@
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\bin\Debug\netstandard2.1\AudiCars.Data.Common.deps.json
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\bin\Debug\netstandard2.1\AudiCars.Data.Common.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\bin\Debug\netstandard2.1\AudiCars.Data.Common.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\obj\Debug\netstandard2.1\AudiCars.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\obj\Debug\netstandard2.1\AudiCars.Data.Common.AssemblyInfoInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\obj\Debug\netstandard2.1\AudiCars.Data.Common.AssemblyInfo.cs
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\obj\Debug\netstandard2.1\AudiCars.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\obj\Debug\netstandard2.1\AudiCars.Data.Common.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Data\AudiCars.Data.Common\obj\Debug\netstandard2.1\AudiCars.Data.Common.pdb

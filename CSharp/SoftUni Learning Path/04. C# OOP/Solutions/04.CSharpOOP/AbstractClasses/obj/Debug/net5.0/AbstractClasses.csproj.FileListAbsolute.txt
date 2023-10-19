@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\bin\Debug\net5.0\AbstractClasses.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\bin\Debug\net5.0\AbstractClasses.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\bin\Debug\net5.0\AbstractClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\bin\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\bin\Debug\net5.0\AbstractClasses.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\AbstractClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\ref\AbstractClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\AbstractClasses.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\AbstractClasses\obj\Debug\net5.0\AbstractClasses.genruntimeconfig.cache

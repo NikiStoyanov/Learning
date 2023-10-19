@@ -1,0 +1,10 @@
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\bin\Debug\netstandard2.1\AudiCars.Services.deps.json
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\bin\Debug\netstandard2.1\AudiCars.Services.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\bin\Debug\netstandard2.1\AudiCars.Services.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\obj\Debug\netstandard2.1\AudiCars.Services.csproj.AssemblyReference.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\obj\Debug\netstandard2.1\AudiCars.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\obj\Debug\netstandard2.1\AudiCars.Services.AssemblyInfoInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\obj\Debug\netstandard2.1\AudiCars.Services.AssemblyInfo.cs
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\obj\Debug\netstandard2.1\AudiCars.Services.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\obj\Debug\netstandard2.1\AudiCars.Services.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\08. ASP.NET Core MVC Web Framework\Demos\AudiCars\Services\AudiCars.Services\obj\Debug\netstandard2.1\AudiCars.Services.pdb

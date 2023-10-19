@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\bin\Debug\net5.0\05.CreateAttribute.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\bin\Debug\net5.0\05.CreateAttribute.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\bin\Debug\net5.0\05.CreateAttribute.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\bin\Debug\net5.0\05.CreateAttribute.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\bin\Debug\net5.0\05.CreateAttribute.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\bin\Debug\net5.0\ref\05.CreateAttribute.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\bin\Debug\net5.0\05.CreateAttribute.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\05.CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\05.CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\05.CreateAttribute.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\05.CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\05.CreateAttribute.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\ref\05.CreateAttribute.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\05.CreateAttribute.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.CreateAttribute\obj\Debug\net5.0\05.CreateAttribute.genruntimeconfig.cache

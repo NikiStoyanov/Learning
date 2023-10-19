@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\bin\Debug\net5.0\ref\02.MultipleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\bin\Debug\net5.0\02.MultipleInheritance.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\ref\02.MultipleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.MultipleInheritance\obj\Debug\net5.0\02.MultipleInheritance.genruntimeconfig.cache

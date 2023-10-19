@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\bin\Debug\net5.0\03.StudentSystem.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\bin\Debug\net5.0\03.StudentSystem.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\bin\Debug\net5.0\03.StudentSystem.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\bin\Debug\net5.0\03.StudentSystem.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\bin\Debug\net5.0\03.StudentSystem.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\bin\Debug\net5.0\ref\03.StudentSystem.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\bin\Debug\net5.0\03.StudentSystem.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\ref\03.StudentSystem.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.genruntimeconfig.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\03.StudentSystem\obj\Debug\net5.0\03.StudentSystem.csprojAssemblyReference.cache

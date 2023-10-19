@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\bin\Debug\net5.0\06.CodingTracker.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\bin\Debug\net5.0\06.CodingTracker.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\bin\Debug\net5.0\06.CodingTracker.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\bin\Debug\net5.0\06.CodingTracker.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\bin\Debug\net5.0\06.CodingTracker.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\bin\Debug\net5.0\ref\06.CodingTracker.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\bin\Debug\net5.0\06.CodingTracker.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\ref\06.CodingTracker.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\06.CodingTracker\obj\Debug\net5.0\06.CodingTracker.genruntimeconfig.cache

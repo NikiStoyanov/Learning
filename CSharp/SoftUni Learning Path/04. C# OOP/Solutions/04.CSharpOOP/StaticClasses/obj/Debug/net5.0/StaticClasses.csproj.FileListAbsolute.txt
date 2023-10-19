@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\bin\Debug\net5.0\StaticClasses.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\bin\Debug\net5.0\StaticClasses.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\bin\Debug\net5.0\StaticClasses.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\bin\Debug\net5.0\StaticClasses.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\bin\Debug\net5.0\StaticClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\bin\Debug\net5.0\ref\StaticClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\bin\Debug\net5.0\StaticClasses.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\ref\StaticClasses.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\StaticClasses\obj\Debug\net5.0\StaticClasses.genruntimeconfig.cache

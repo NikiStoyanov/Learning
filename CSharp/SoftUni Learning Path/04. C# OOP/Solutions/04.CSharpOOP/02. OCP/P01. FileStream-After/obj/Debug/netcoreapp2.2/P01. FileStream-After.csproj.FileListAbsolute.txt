@@ -1,0 +1,12 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\bin\Debug\netcoreapp2.2\P01. FileStream-After.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\bin\Debug\netcoreapp2.2\P01. FileStream-After.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\bin\Debug\netcoreapp2.2\P01. FileStream-After.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\bin\Debug\netcoreapp2.2\P01. FileStream-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\bin\Debug\netcoreapp2.2\P01. FileStream-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\obj\Debug\netcoreapp2.2\P01. FileStream-After.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\obj\Debug\netcoreapp2.2\P01. FileStream-After.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\obj\Debug\netcoreapp2.2\P01. FileStream-After.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\obj\Debug\netcoreapp2.2\P01. FileStream-After.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\obj\Debug\netcoreapp2.2\P01. FileStream-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\obj\Debug\netcoreapp2.2\P01. FileStream-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-After\obj\Debug\netcoreapp2.2\P01. FileStream-After.genruntimeconfig.cache

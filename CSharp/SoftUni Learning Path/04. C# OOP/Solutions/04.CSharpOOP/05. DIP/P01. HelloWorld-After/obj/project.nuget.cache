@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxHYnieyU8CicVen9f5O7f9xJQHs5dPc1H6KnJYovSwCdEtLcIhr1QSjOWQ8OBPojaGCVLDsSLx31KuYPwWpmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\CSharp\\04. C# OOP\\Solutions\\04.CSharpOOP\\05. DIP\\P01. HelloWorld-After\\P01. HelloWorld-After.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

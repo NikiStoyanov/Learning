@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\bin\Debug\net5.0\ref\TryCatchFinally.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\ref\TryCatchFinally.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.genruntimeconfig.cache

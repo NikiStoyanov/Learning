@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\bin\Debug\net5.0\05.AccountBalance.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\bin\Debug\net5.0\05.AccountBalance.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\bin\Debug\net5.0\05.AccountBalance.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\bin\Debug\net5.0\05.AccountBalance.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\bin\Debug\net5.0\05.AccountBalance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\bin\Debug\net5.0\ref\05.AccountBalance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\bin\Debug\net5.0\05.AccountBalance.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\05.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\05.AccountBalance.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\05.AccountBalance.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\05.AccountBalance.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\05.AccountBalance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\ref\05.AccountBalance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\05.AccountBalance.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\05.AccountBalance\obj\Debug\net5.0\05.AccountBalance.genruntimeconfig.cache

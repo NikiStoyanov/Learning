@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\bin\Debug\net5.0\04.Nums1To9.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\bin\Debug\net5.0\04.Nums1To9.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\bin\Debug\net5.0\04.Nums1To9.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\bin\Debug\net5.0\04.Nums1To9.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\bin\Debug\net5.0\04.Nums1To9.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\bin\Debug\net5.0\ref\04.Nums1To9.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\bin\Debug\net5.0\04.Nums1To9.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\04.Nums1To9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\04.Nums1To9.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\04.Nums1To9.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\04.Nums1To9.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\04.Nums1To9.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\ref\04.Nums1To9.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\04.Nums1To9.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.Nums1To10\obj\Debug\net5.0\04.Nums1To9.genruntimeconfig.cache

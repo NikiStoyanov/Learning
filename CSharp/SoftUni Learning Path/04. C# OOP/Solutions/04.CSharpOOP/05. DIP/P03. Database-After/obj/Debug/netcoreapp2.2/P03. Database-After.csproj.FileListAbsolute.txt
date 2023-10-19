@@ -1,0 +1,11 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\bin\Debug\netcoreapp2.2\P03. Database-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P03. Database-After\obj\Debug\netcoreapp2.2\P03. Database-After.genruntimeconfig.cache

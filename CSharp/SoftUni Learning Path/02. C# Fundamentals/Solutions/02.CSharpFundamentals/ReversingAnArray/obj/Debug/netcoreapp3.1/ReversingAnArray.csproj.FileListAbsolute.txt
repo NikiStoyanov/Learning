@@ -1,0 +1,13 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\bin\Debug\netcoreapp3.1\ReversingAnArray.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\bin\Debug\netcoreapp3.1\ReversingAnArray.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\bin\Debug\netcoreapp3.1\ReversingAnArray.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\bin\Debug\netcoreapp3.1\ReversingAnArray.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\bin\Debug\netcoreapp3.1\ReversingAnArray.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\bin\Debug\netcoreapp3.1\ReversingAnArray.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\obj\Debug\netcoreapp3.1\ReversingAnArray.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\obj\Debug\netcoreapp3.1\ReversingAnArray.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\obj\Debug\netcoreapp3.1\ReversingAnArray.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\obj\Debug\netcoreapp3.1\ReversingAnArray.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\obj\Debug\netcoreapp3.1\ReversingAnArray.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\obj\Debug\netcoreapp3.1\ReversingAnArray.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ReversingAnArray\obj\Debug\netcoreapp3.1\ReversingAnArray.genruntimeconfig.cache

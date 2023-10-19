@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\bin\Debug\net5.0\08.MinAndMaxNumber.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\bin\Debug\net5.0\08.MinAndMaxNumber.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\bin\Debug\net5.0\08.MinAndMaxNumber.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\bin\Debug\net5.0\08.MinAndMaxNumber.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\bin\Debug\net5.0\08.MinAndMaxNumber.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\bin\Debug\net5.0\ref\08.MinAndMaxNumber.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\bin\Debug\net5.0\08.MinAndMaxNumber.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\08.MinAndMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\08.MinAndMaxNumber.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\08.MinAndMaxNumber.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\08.MinAndMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\08.MinAndMaxNumber.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\ref\08.MinAndMaxNumber.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\08.MinAndMaxNumber.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\08.MinAndMaxNumber\obj\Debug\net5.0\08.MinAndMaxNumber.genruntimeconfig.cache

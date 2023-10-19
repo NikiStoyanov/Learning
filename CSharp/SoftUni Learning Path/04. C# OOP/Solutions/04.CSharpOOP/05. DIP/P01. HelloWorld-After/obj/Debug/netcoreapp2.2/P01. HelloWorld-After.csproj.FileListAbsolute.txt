@@ -1,0 +1,11 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\bin\Debug\netcoreapp2.2\P01. HelloWorld-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05. DIP\P01. HelloWorld-After\obj\Debug\netcoreapp2.2\P01. HelloWorld-After.genruntimeconfig.cache

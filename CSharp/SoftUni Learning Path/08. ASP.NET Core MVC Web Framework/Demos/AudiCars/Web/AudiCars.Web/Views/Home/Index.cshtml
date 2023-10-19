@@ -1,0 +1,17 @@
+﻿@using AudiCars.Common
+@using AudiCars.Web.ViewModels.Cars
+@model IEnumerable<HomePageCarViewModel>
+@{
+    this.ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to @GlobalConstants.SystemName!</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@foreach (var car in Model)
+{
+    <h2>@car.ModelName: @car.Title; @car.YearAndMonth</h2>
+}

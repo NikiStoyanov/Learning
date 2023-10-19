@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "N4u1dnY2Xem0H6awfRzTOHIJd1uE2EJwSqoMZcX7zk6MWdqXrJ6sUE33mBrx8dEBhqGijJW4R4lKhyX8FE7wQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\CSharp\\04. C# OOP\\Solutions\\04.CSharpOOP\\04. ISP\\P02. Identity-After\\P02. Identity-After.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

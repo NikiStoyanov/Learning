@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\bin\Debug\net5.0\04.HotelReservation.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\bin\Debug\net5.0\04.HotelReservation.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\bin\Debug\net5.0\04.HotelReservation.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\bin\Debug\net5.0\04.HotelReservation.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\bin\Debug\net5.0\04.HotelReservation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\bin\Debug\net5.0\ref\04.HotelReservation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\bin\Debug\net5.0\04.HotelReservation.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\ref\04.HotelReservation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04.HotelReservation\obj\Debug\net5.0\04.HotelReservation.genruntimeconfig.cache

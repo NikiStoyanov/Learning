@@ -1,0 +1,11 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\bin\Debug\netcoreapp2.2\P02. DrawingShape-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P02. DrawingShape-After\obj\Debug\netcoreapp2.2\P02. DrawingShape-After.genruntimeconfig.cache

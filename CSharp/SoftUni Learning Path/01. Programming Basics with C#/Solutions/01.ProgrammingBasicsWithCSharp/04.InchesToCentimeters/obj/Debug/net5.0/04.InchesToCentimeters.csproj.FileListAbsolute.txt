@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\bin\Debug\net5.0\04.InchesToCentimeters.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\bin\Debug\net5.0\04.InchesToCentimeters.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\bin\Debug\net5.0\04.InchesToCentimeters.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\bin\Debug\net5.0\04.InchesToCentimeters.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\bin\Debug\net5.0\04.InchesToCentimeters.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\bin\Debug\net5.0\ref\04.InchesToCentimeters.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\bin\Debug\net5.0\04.InchesToCentimeters.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\04.InchesToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\04.InchesToCentimeters.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\04.InchesToCentimeters.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\04.InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\04.InchesToCentimeters.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\ref\04.InchesToCentimeters.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\04.InchesToCentimeters.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\04.InchesToCentimeters\obj\Debug\net5.0\04.InchesToCentimeters.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\bin\Debug\netcoreapp2.2\P02. Identity-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-After\obj\Debug\netcoreapp2.2\P02. Identity-After.genruntimeconfig.cache

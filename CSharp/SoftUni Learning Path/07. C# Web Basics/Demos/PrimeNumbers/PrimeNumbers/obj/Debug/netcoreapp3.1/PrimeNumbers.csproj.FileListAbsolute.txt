@@ -1,0 +1,13 @@
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.exe
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.deps.json
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.json
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.dev.json
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.dll
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.pdb
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.AssemblyReference.cache
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfoInputs.cache
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfo.cs
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.dll
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.pdb
+D:\Learning\CSharp\SoftUni Learning Path\07. C# Web Basics\Demos\PrimeNumbers\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.genruntimeconfig.cache

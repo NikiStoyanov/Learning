@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\bin\Debug\net5.0\02.PointInRectangle.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\bin\Debug\net5.0\02.PointInRectangle.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\bin\Debug\net5.0\02.PointInRectangle.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\bin\Debug\net5.0\02.PointInRectangle.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\bin\Debug\net5.0\02.PointInRectangle.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\bin\Debug\net5.0\ref\02.PointInRectangle.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\bin\Debug\net5.0\02.PointInRectangle.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\ref\02.PointInRectangle.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02.PointInRectangle\obj\Debug\net5.0\02.PointInRectangle.genruntimeconfig.cache

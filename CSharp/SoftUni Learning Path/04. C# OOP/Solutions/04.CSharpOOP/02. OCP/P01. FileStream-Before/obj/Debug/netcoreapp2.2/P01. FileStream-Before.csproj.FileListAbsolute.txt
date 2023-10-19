@@ -1,0 +1,11 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\bin\Debug\netcoreapp2.2\P01. FileStream-Before.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P01. FileStream-Before\obj\Debug\netcoreapp2.2\P01. FileStream-Before.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\bin\Debug\net5.0\ref\01.SingleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\bin\Debug\net5.0\01.SingleInheritance.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\ref\01.SingleInheritance.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SingleInheritance\obj\Debug\net5.0\01.SingleInheritance.genruntimeconfig.cache

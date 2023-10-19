@@ -1,0 +1,24 @@
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojAssemblyReference.cache
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\nikis\OneDrive\Bureau\Unit testing\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.genruntimeconfig.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.genruntimeconfig.cache

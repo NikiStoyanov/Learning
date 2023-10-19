@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\bin\Debug\net5.0\01.SortPersonsByNameAndAge.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\bin\Debug\net5.0\01.SortPersonsByNameAndAge.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\bin\Debug\net5.0\01.SortPersonsByNameAndAge.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\bin\Debug\net5.0\01.SortPersonsByNameAndAge.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\bin\Debug\net5.0\01.SortPersonsByNameAndAge.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\bin\Debug\net5.0\ref\01.SortPersonsByNameAndAge.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\bin\Debug\net5.0\01.SortPersonsByNameAndAge.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\ref\01.SortPersonsByNameAndAge.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.genruntimeconfig.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.SortPersonsByNameAndAge\obj\Debug\net5.0\01.SortPersonsByNameAndAge.csprojAssemblyReference.cache

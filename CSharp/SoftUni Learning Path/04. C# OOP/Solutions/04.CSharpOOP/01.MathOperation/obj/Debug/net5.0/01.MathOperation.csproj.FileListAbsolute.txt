@@ -1,0 +1,15 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\bin\Debug\net5.0\01.MathOperation.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\bin\Debug\net5.0\01.MathOperation.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\bin\Debug\net5.0\01.MathOperation.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\bin\Debug\net5.0\01.MathOperation.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\bin\Debug\net5.0\01.MathOperation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\bin\Debug\net5.0\ref\01.MathOperation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\bin\Debug\net5.0\01.MathOperation.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\01.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\01.MathOperation.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\01.MathOperation.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\01.MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\01.MathOperation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\ref\01.MathOperation.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\01.MathOperation.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.MathOperation\obj\Debug\net5.0\01.MathOperation.genruntimeconfig.cache

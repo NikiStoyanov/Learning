@@ -1,0 +1,11 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\bin\Debug\netcoreapp2.2\P02. Identity-Before.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\bin\Debug\netcoreapp2.2\P02. Identity-Before.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\bin\Debug\netcoreapp2.2\P02. Identity-Before.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\bin\Debug\netcoreapp2.2\P02. Identity-Before.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\bin\Debug\netcoreapp2.2\P02. Identity-Before.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\obj\Debug\netcoreapp2.2\P02. Identity-Before.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\obj\Debug\netcoreapp2.2\P02. Identity-Before.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\obj\Debug\netcoreapp2.2\P02. Identity-Before.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\obj\Debug\netcoreapp2.2\P02. Identity-Before.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\obj\Debug\netcoreapp2.2\P02. Identity-Before.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\04. ISP\P02. Identity-Before\obj\Debug\netcoreapp2.2\P02. Identity-Before.genruntimeconfig.cache

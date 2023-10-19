@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZD60+uC/pfi7U8myFTaBxJR1C3upd0Vh6P8G/1U4dBWwh9Jn+GdVkrU+Ad4mJ++LO2co9NlfDi+onoD9IiARVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikis\\Desktop\\Learning\\Learning\\CSharp\\SoftUni Learning Path\\08. ASP.NET Core MVC Web Framework\\Demos\\AudiCars\\Services\\AudiCars.Services\\AudiCars.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikis\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.312\\stylecop.analyzers.1.2.0-beta.312.nupkg.sha512",
+    "C:\\Users\\nikis\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.312\\stylecop.analyzers.unstable.1.2.0.312.nupkg.sha512"
+  ],
+  "logs": []
+}

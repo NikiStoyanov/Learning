@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\bin\Debug\net5.0\01.RhombusOfStars.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\bin\Debug\net5.0\01.RhombusOfStars.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\bin\Debug\net5.0\01.RhombusOfStars.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\bin\Debug\net5.0\01.RhombusOfStars.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\bin\Debug\net5.0\01.RhombusOfStars.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\bin\Debug\net5.0\ref\01.RhombusOfStars.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\bin\Debug\net5.0\01.RhombusOfStars.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\ref\01.RhombusOfStars.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.genruntimeconfig.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\01.RhombusOfStars\obj\Debug\net5.0\01.RhombusOfStars.csprojAssemblyReference.cache

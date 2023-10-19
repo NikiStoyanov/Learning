@@ -1,0 +1,14 @@
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees\bin\Debug\Trees.exe
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.csproj.AssemblyReference.cache
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.exe
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees\bin\Debug\Trees.exe.config
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees\bin\Debug\Trees.exe
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.csproj.AssemblyReference.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.exe
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees\obj\Debug\Trees.pdb

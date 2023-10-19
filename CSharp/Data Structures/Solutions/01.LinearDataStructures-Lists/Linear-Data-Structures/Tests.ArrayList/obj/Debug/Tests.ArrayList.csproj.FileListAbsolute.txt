@@ -1,0 +1,22 @@
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.pdb
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe.config
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.AssemblyReference.cache
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CoreCompileInputs.cache
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CopyComplete
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+D:\Learning\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Tests.ArrayList.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\bin\Debug\Lists.exe.config
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.AssemblyReference.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.csproj.CopyComplete
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\01.LinearDataStructures-Lists\Linear-Data-Structures\Tests.ArrayList\obj\Debug\Tests.ArrayList.pdb

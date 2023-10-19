@@ -1,0 +1,31 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\02. C# Fundamentals\Solutions\02.CSharpFundamentals\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\SoftUni Learning Path\01. Programming Basics with C#\Solutions\01.ProgrammingBasicsWithCSharp\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

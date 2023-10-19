@@ -1,0 +1,22 @@
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.Tests.dll
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.Tests.pdb
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.exe
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.pdb
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.exe.config
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.AssemblyReference.cache
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CopyComplete
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.dll
+C:\Users\nikis\OneDrive\Bureau\Algorithms and Data Structures\DataStructuresWithCSharp\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.Tests.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.Tests.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.exe
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.pdb
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\bin\Debug\Trees.exe.config
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.AssemblyReference.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.csproj.CopyComplete
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.dll
+C:\Users\nikis\Desktop\Learning\Learning\CSharp\DataStructures\Solutions\03.BasicTreesDataStructures\Trees\Trees.Tests\obj\Debug\Trees.Tests.pdb

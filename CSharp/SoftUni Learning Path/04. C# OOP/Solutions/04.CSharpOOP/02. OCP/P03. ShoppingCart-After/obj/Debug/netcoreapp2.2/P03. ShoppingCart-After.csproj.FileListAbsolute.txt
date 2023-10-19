@@ -1,0 +1,12 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\bin\Debug\netcoreapp2.2\P03. ShoppingCart-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\02. OCP\P03. ShoppingCart-After\obj\Debug\netcoreapp2.2\P03. ShoppingCart-After.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\bin\Debug\net5.0\05.StackOfStrings.exe
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\bin\Debug\net5.0\05.StackOfStrings.deps.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\bin\Debug\net5.0\05.StackOfStrings.runtimeconfig.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\bin\Debug\net5.0\05.StackOfStrings.runtimeconfig.dev.json
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\bin\Debug\net5.0\05.StackOfStrings.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\bin\Debug\net5.0\ref\05.StackOfStrings.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\bin\Debug\net5.0\05.StackOfStrings.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.csprojAssemblyReference.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.AssemblyInfo.cs
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\ref\05.StackOfStrings.dll
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.pdb
+C:\Users\nikis\source\repos\ProgrammingStefi\CSharp\04. C# OOP\Solutions\04.CSharpOOP\05.StackOfStrings\obj\Debug\net5.0\05.StackOfStrings.genruntimeconfig.cache
