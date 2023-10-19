@@ -1,0 +1,15 @@
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.exe
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.deps.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.runtimeconfig.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\bin\Debug\net7.0\TowerOfHanoi.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.csproj.AssemblyReference.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.AssemblyInfoInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.AssemblyInfo.cs
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\refint\TowerOfHanoi.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\TowerOfHanoi.genruntimeconfig.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\TowerOfHanoi\obj\Debug\net7.0\ref\TowerOfHanoi.dll

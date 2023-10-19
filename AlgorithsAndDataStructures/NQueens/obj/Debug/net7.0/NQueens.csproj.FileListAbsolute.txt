@@ -1,0 +1,15 @@
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\bin\Debug\net7.0\NQueens.exe
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\bin\Debug\net7.0\NQueens.deps.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\bin\Debug\net7.0\NQueens.runtimeconfig.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\bin\Debug\net7.0\NQueens.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\bin\Debug\net7.0\NQueens.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.csproj.AssemblyReference.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.AssemblyInfoInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.AssemblyInfo.cs
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\refint\NQueens.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\NQueens.genruntimeconfig.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\NQueens\obj\Debug\net7.0\ref\NQueens.dll
