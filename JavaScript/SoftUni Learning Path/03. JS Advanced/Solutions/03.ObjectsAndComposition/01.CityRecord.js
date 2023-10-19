@@ -1,0 +1,11 @@
+function cityRecord (name, population, treasury) {
+    let city = {
+        name: name,
+        population: population,
+        treasury: treasury
+    };
+
+    return city;
+}
+
+cityRecord ('Santo Domingo', 12000, 23500);
