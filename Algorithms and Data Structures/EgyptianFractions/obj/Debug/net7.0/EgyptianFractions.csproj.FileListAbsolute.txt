@@ -1,0 +1,15 @@
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\bin\Debug\net7.0\EgyptianFractions.exe
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\bin\Debug\net7.0\EgyptianFractions.deps.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\bin\Debug\net7.0\EgyptianFractions.runtimeconfig.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\bin\Debug\net7.0\EgyptianFractions.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\bin\Debug\net7.0\EgyptianFractions.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.csproj.AssemblyReference.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.AssemblyInfoInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.AssemblyInfo.cs
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\refint\EgyptianFractions.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\EgyptianFractions.genruntimeconfig.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EgyptianFractions\obj\Debug\net7.0\ref\EgyptianFractions.dll

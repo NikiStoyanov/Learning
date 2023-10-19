@@ -1,0 +1,15 @@
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\bin\Debug\net7.0\EuclideanAlgorithm.exe
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\bin\Debug\net7.0\EuclideanAlgorithm.deps.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\bin\Debug\net7.0\EuclideanAlgorithm.runtimeconfig.json
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\bin\Debug\net7.0\EuclideanAlgorithm.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\bin\Debug\net7.0\EuclideanAlgorithm.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.csproj.AssemblyReference.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.AssemblyInfoInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.AssemblyInfo.cs
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\refint\EuclideanAlgorithm.dll
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.pdb
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\EuclideanAlgorithm.genruntimeconfig.cache
+C:\Users\nikis\OneDrive\Bureau\Learning\AlgorithsAndDataStructures\EuclideanAlgorithm\obj\Debug\net7.0\ref\EuclideanAlgorithm.dll
