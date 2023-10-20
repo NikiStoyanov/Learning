@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\EgyptianFractions\\EgyptianFractions.csproj",
+      "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\EgyptianFractions\\EgyptianFractions.csproj",
       "projectName": "EgyptianFractions",
-      "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\EgyptianFractions\\EgyptianFractions.csproj",
+      "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\EgyptianFractions\\EgyptianFractions.csproj",
       "packagesPath": "C:\\Users\\nikis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\EgyptianFractions\\obj\\",
+      "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\EgyptianFractions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

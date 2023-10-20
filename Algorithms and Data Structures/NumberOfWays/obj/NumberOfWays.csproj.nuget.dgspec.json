@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NumberOfWays\\NumberOfWays.csproj": {}
+    "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NumberOfWays\\NumberOfWays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NumberOfWays\\NumberOfWays.csproj": {
+    "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NumberOfWays\\NumberOfWays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NumberOfWays\\NumberOfWays.csproj",
+        "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NumberOfWays\\NumberOfWays.csproj",
         "projectName": "NumberOfWays",
-        "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NumberOfWays\\NumberOfWays.csproj",
+        "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NumberOfWays\\NumberOfWays.csproj",
         "packagesPath": "C:\\Users\\nikis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NumberOfWays\\obj\\",
+        "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NumberOfWays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

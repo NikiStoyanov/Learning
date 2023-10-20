@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NQueens\\NQueens.csproj",
+      "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NQueens\\NQueens.csproj",
       "projectName": "NQueens",
-      "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NQueens\\NQueens.csproj",
+      "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NQueens\\NQueens.csproj",
       "packagesPath": "C:\\Users\\nikis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\NQueens\\obj\\",
+      "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\NQueens\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

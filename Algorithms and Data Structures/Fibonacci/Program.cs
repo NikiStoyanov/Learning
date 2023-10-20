@@ -1,20 +1,19 @@
-﻿long[] memory;
+﻿int n = int.Parse(Console.ReadLine());
+
+long[] memory = new long[n + 1];
+
+Console.WriteLine(Fibonacci(n));
+
+Console.WriteLine(string.Join(", ", memory));
 
 long Fibonacci(int n)
 {
     if (memory[n] != 0) return memory[n];
-    {
-        
-    }
-    return Fibonacci(n - 1) + Fibonacci(n - 2)
+
+    if (n <= 1) memory[n] = 1;
+    else memory[n] = Fibonacci(n - 2) + Fibonacci(n - 1);
+    return memory[n];
 }
-
-
-
-
-
-
-
 
 // List<int> fib = new List<int>();
 //

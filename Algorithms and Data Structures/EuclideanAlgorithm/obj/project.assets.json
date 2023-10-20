@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\EuclideanAlgorithm\\EuclideanAlgorithm.csproj",
+      "projectUniqueName": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\EuclideanAlgorithm\\EuclideanAlgorithm.csproj",
       "projectName": "EuclideanAlgorithm",
-      "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\EuclideanAlgorithm\\EuclideanAlgorithm.csproj",
+      "projectPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\EuclideanAlgorithm\\EuclideanAlgorithm.csproj",
       "packagesPath": "C:\\Users\\nikis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\AlgorithsAndDataStructures\\EuclideanAlgorithm\\obj\\",
+      "outputPath": "C:\\Users\\nikis\\OneDrive\\Bureau\\Learning\\Algorithms and Data Structures\\EuclideanAlgorithm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
